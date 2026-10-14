@@ -20,7 +20,7 @@ const getImagen = async () => {
   }
 };
 
-//Otras funciones
+//Otras funciones.
 
 getImagen();
 console.log("Antes de la imagen");
